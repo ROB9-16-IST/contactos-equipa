@@ -1,5 +1,5 @@
-![NEG_LOGO](https://github.com/ROB9-16-IST/contactos-equipa/blob/main/img/IST_A_RGB_NEG.png#gh-dark-mode-only)
-![POS_LOGO](https://github.com/ROB9-16-IST/contactos-equipa/blob/main/img/IST_A_RGB_POS.png#gh-light-mode-only)
+![NEG_LOGO](https://github.com/joaogaspar00/contactos-equipa-openlab/blob/main/img/IST_A_RGB_NEG.png#gh-dark-mode-only)
+![POS_LOGO](https://github.com/joaogaspar00/contactos-equipa-openlab/blob/main/img/IST_A_RGB_POS.png#gh-light-mode-only)
 
 <div align="center">
     <h2>Bem-vindo! 😃</h2> 
